@@ -24,6 +24,4 @@ React Redux - Counter
 
 Reducer -> mapStateToProps -> Store -> mapDispatchToProps
 
-<img src="
-https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbjvQ8h%2FbtqxRuPdY3H%2FC9xqDGuPzXGo0h8V6LeeQ0%2Fimg.png"
-width="550px"/>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbjvQ8h%2FbtqxRuPdY3H%2FC9xqDGuPzXGo0h8V6LeeQ0%2Fimg.png" width="550px" />
